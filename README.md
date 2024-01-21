@@ -1,1 +1,1 @@
-Just a personal website.
+A personal website.
